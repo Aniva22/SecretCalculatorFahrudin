@@ -1,0 +1,50 @@
+# Android Studio / IntelliJ
+*.iml
+.idea/
+.gradle/
+build/
+local.properties
+
+# Compiled class files
+*.class
+
+# Log files
+*.log
+
+# Android build outputs
+*.apk
+*.ap_
+*.aab
+*.dex
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+
+# Local configuration file (SDK path, etc.)
+local.properties
+
+# ProGuard folder
+proguard/
+
+# Keystore files
+*.jks
+*.keystore
+
+# External native build folder
+.externalNativeBuild
+.cxx/
+
+# Google Services (e.g., API keys)
+google-services.json
+
+# Miscellaneous
+*.bak
+*.swp
+.DS_Store
+thumbs.db
